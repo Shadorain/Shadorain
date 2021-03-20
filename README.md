@@ -43,4 +43,4 @@ Please feel free to friend or DM me on Discord or DOX me to find my cellphone nu
 ### Rice Zone
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadorain&repo=shadotheme&show_owner=true&show_icons=truetrue&text_color=dfb7e8&icon_color=ff7ab2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadorain&repo=shadovim&show_owner=true&show_icons=truetrue&text_color=dfb7e8&icon_color=ff7ab2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shadorain&repo=shadobar-2&show_owner=true&show_icons=truetrue&text_color=dfb7e8&icon_color=ff7ab2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[Rice Screenshot](pics/rice.png)
+![Rice Screenshot](pics/rice.png)
