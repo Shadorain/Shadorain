@@ -2,7 +2,7 @@
 
 Hey, my name is Shado! Thanks for checking out my profile, hope you find what you are looking for!
 
-I am into low-level programming, security, data structures and algos, and Linux (can't forget linux 😳!!)
+I am into low-level programming (C/ASM), security, data structures and algos, and Linux (can't forget linux 😳!!)
 I'm a big advocate for FOSS (Free and Open Source Software) and am always willing to help with anything that I can help with.
 
 Please feel free to friend or DM me on Discord or DOX me to find my cellphone number to text me at! (yes this is a slight challenge but it isn't too hard to find 😜).
