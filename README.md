@@ -33,7 +33,7 @@ Please feel free to friend or DM me on Discord or DOX me to find my cellphone nu
 - 📱 How to reach me: 
   - Discord: Shadorain#4182
   - EMail: shadorain.elite@gmail.com
-- 🎸 Fun fact: I love Christian Metalcore! (Play a good bit on guitar which is a blast!)
+- 🎸 Fun fact: I love Christian Metalcore! (Play a good bit on guitar which is a blast!) Hit me up for some bands if you want!
 
 [![Shadorain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadorain&count_private=true&show_icons=truetrue&text_color=dfb7e8&icon_color=8677d9&theme=dracula))](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadorain&show_icons=truetrue&text_color=dfb7e8&icon_color=8677d9&&theme=dracula&hide=css,html,shell)](https://github.com/anuraghazra/github-readme-stats)
 
