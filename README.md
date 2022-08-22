@@ -27,9 +27,9 @@ Please feel free to friend or DM me on Discord or DOX me to find my cellphone nu
 
 ## Who am I
 [![Security is my jam](https://img.shields.io/badge/My%20jam-security-critical?style=flat-square&logo=electron&logoColor=white&labelColor=6272a4&color=8677d9)](https://shadorain.github.io/blog/Security/)
-- ◼️ I’m currently working on custom editor: [ShadoEditor](https://github.com/Shadorain/ShadoEditor)!!
+- ◼️ I’m currently working on custom editor in Rust: [Phantom](https://github.com/Shadorain/Phantom)!!
 - 💻 I’m currently learning more Data Structures and Algorithms in C!
-- 💬 Ask me about anything vim, linux, or C programming for the most part!
+- 💬 Ask me about anything Neo/vim, Linux, Rust, or C programming for the most part!
 - 📱 How to reach me: 
   - Discord: Shadorain#4182
   - EMail: shadorain.elite@gmail.com
