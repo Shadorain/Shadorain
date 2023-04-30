@@ -2,7 +2,7 @@
 
 Thanks for checking out my profile, hope you find what you are looking for!
 
-I am a programmer heavily invested in Rust mainly and C/C++ when needed. I also love security, operating systems (Linux daily driver), and a bunch of other cool stuff. I'm a big FOSS advocate for FOSS (Free and Open Source Software) and am always willing to help with anything that I can help with.
+I am a programmer heavily invested in Rust mainly and C/C++ when needed. I also love security, operating systems (Linux daily driver), and a bunch of other cool stuff. I'm a big advocate for FOSS (Free and Open Source Software) and am always willing to help with anything that I can help with.
 
 Please feel free to friend or DM me on Discord or shoot me an email! [Who am I](#who-am-i)
 
